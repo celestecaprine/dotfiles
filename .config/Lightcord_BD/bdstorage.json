@@ -1,0 +1,77 @@
+{
+    "settings": {
+        "stable": {
+            "settings": {
+                "bda-gs-1": true,
+                "bda-gs-2": false,
+                "bda-gs-3": false,
+                "bda-gs-4": false,
+                "bda-gs-5": true,
+                "bda-gs-6": false,
+                "bda-gs-7": false,
+                "bda-gs-8": false,
+                "bda-es-0": true,
+                "bda-es-1": true,
+                "bda-es-2": true,
+                "bda-es-4": false,
+                "bda-es-6": true,
+                "bda-es-7": true,
+                "bda-gs-b": false,
+                "bda-es-8": true,
+                "bda-dc-0": false,
+                "bda-css-0": true,
+                "bda-css-1": false,
+                "bda-es-9": true,
+                "fork-dm-1": false,
+                "fork-ps-1": true,
+                "fork-ps-2": true,
+                "fork-ps-3": true,
+                "fork-ps-4": true,
+                "fork-ps-5": true,
+                "fork-ps-6": true,
+                "fork-ps-7": false,
+                "fork-es-2": false,
+                "fork-es-3": true,
+                "fork-wp-1": false,
+                "fork-wp-2": false,
+                "fork-beta": true,
+                "lightcord-1": false,
+                "lightcord-2": true,
+                "lightcord-presence-1": false,
+                "lightcord-3": false,
+                "lightcord-4": false,
+                "lightcord-5": true,
+                "lightcord-6": true,
+                "lightcord-7": false,
+                "lightcord-8": false,
+                "lightcord-9": false,
+                "lightcord-10": false,
+                "no_window_bound": false
+            },
+            "rpc": {
+                "name": "Lightcord",
+                "application_id": "711416957718757418",
+                "state": "Lightcord Client",
+                "details": "Browsing Discord",
+                "timestamps.start": 1605745445384,
+                "assets.small": null,
+                "assets.large": "712323821037682791"
+            },
+            "PluginCertifierHashes": "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",
+            "plugins": {
+                "ZeresPluginLibrary": false
+            },
+            "themes": {
+                "Dark Discord": false,
+                "Glasscord Example Theme": false,
+                "grape": false,
+                "grape2": false,
+                "nordic": true
+            }
+        },
+        "canary": {},
+        "ptb": {}
+    },
+    "version": "0.3.5",
+    "bdcustomcss": ""
+}
