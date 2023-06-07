@@ -31,3 +31,5 @@ alias vim=hx
 alias nano=hx
 export EDITOR=hx
 export VISUAL=hx
+
+export PATH="$PATH:$HOME/.local/bin"
