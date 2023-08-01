@@ -26,6 +26,9 @@ antigen apply
 
 # Aliases and other such nonsense
 # alias ls=exa
+if [[ $(uname -n) = 'arch.np-desktop' ]]; then;
+    alias hx=helix
+fi
 alias vi=hx
 alias vim=hx
 alias nano=hx
