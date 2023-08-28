@@ -32,6 +32,7 @@ fi
 alias vi=hx
 alias vim=hx
 alias nano=hx
+alias dev='distrobox enter dev'
 export EDITOR=hx
 export VISUAL=hx
 
